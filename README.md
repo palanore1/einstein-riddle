@@ -1,4 +1,4 @@
-# eEinstein's riddle
+# Einstein's riddle
 A solution for the common CSP named Einstein's Riddle using backtracking + AC-3 and MRV heuristics
 
 Defined a Domain class that represents the domain of a variable in the CSP problem. A domain is a set of values that a variable can be attributed with.
